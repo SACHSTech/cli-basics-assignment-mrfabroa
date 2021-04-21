@@ -21,4 +21,4 @@ Perform the following commands in order. Use TAB (autocomplete whenever necessar
 16. list the contents of the home(~) directory
 
 
-Copy your terminal shell session and paste it into the `TerminalSession.txt` file.
+Copy your terminal shell session and paste it into the `TerminalSession.txt` file.  

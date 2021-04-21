@@ -1,6 +1,13 @@
 ~/cli-basics-assignment-mrfabroa$ pwd
 /home/runner/cli-basics-assignment-mrfabroa
+~/cli-basics-assignment-mrfabroa$ ls -a
+.  ..  .git  .github  README.md  .replit  TerminalSession.txt
+~/cli-basics-assignment-mrfabroa$ ls
+README.md  TerminalSession.txt
+~/cli-basics-assignment-mrfabroa$ ls -a
+.  ..  .git  .github  README.md  .replit  TerminalSession.txt
 ~/cli-basics-assignment-mrfabroa$ 
+
 
 
 
